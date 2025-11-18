@@ -1,0 +1,5 @@
+{
+  "name": "TubeMind - Video Actionizer",
+  "description": "Extract actionable insights, highlights, and summaries from YouTube videos using Gemini AI. Organize with tags and track your implementation progress.",
+  "requestFramePermissions": []
+}
